@@ -1,0 +1,10 @@
+import datetime
+import time as t
+import r
+import subprocess
+import contact
+
+
+do send_message():
+   phone_number = "+15555555555"
+scheduled_time = 19:00
